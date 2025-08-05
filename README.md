@@ -1,5 +1,3 @@
-## Kim Ash
-
 ### About
 I'm a software developer and artist based in NYC. My career has been focused on the VFX and experience design industries. Most recently, I was a Lead Software Developer at Technicolor. Most of my code from the last 9 years has been proprietary, so I'm working on building some new examples to post here.
 
