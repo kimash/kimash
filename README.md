@@ -1,5 +1,5 @@
 ### About
-I'm a software developer and artist based in NYC. My career has been focused on the VFX and experience design industries. Most recently, I was a Lead Software Developer at Technicolor. Most of my code from the last 9 years has been proprietary, so I'm working on building some new examples to post here.
+I'm a software developer and artist based in NYC. My career has been focused on the VFX and experience design industries. Most recently, I was Head of Pipeline Software at Harbor Picture Company. Most of my code from the last 10 years has been proprietary, so I'm working on building some new examples to post here.
 
 I work primarily in Python and C++, but I also enjoy teaching myself new languages. I like working with APIs and connecting different systems together. I also like GUIs and graphics.
 <!--
